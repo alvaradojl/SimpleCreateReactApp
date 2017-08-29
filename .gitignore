@@ -7,7 +7,7 @@
 /coverage
 
 # production
-/build
+#/build necessary for automatic publishing
 
 # misc
 .DS_Store
